@@ -67,7 +67,7 @@ contact:
     new age with the right mindset. Contact us today to begin understanding how Omega
     can propel your business.
 call_to_action:
-  enable: false
+  enable: true
   title: Join the Omega family. <br>Click below to view the career opportunities we
     have for you.
   button_label: Apply Now
